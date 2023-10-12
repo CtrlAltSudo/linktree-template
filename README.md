@@ -1,5 +1,5 @@
 <h1 align="center">Linktree template</h1>
-<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/nft-preview-card-component-main/">Demo</a><p>
+<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/linktree-template/">Demo</a><p>
 <h2 align="center">Project Screenshot<h2>
 <p align="center">
   <img src="./images/screenshot.png" alt="project screen shot"></img>
@@ -16,3 +16,4 @@ You will also need to replace the text "Jane Doe" and "Lorem ipsum dolor sit ame
 
 Your profile picture image should be called "profilepicture.png" or edit the html document to use whichever filename you prefer, don't forget to either upload your profile picture in the images folder or edit the html document path to your picture location. 
 
+Once done, you will the need to upload to the root directory of your web hosting provider, I would Google or contact support if you're unsure how to do this, it can vary! 
